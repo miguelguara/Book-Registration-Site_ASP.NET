@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GF915RU0F1nMJRpFZPu5/Y3O6Ab/RKJBmrLmewFbhGo+lvXnSj52OZ0xXoj4df4oRXbJnhOce0YeiJIU0A6ZyQ==",
+  "dgSpecHash": "N1D14HK7WaOB7+B13YfTVTNkQEi2B/yb39JTzJ7V+bvBJjuUjKyDI7oEkO9p7tizq/miyY/q+JJ/4jLf5DM5lQ==",
   "success": true,
-  "projectFilePath": "D:\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj",
+  "projectFilePath": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

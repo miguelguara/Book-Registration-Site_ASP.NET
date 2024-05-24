@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj": {}
+    "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj": {}
   },
   "projects": {
-    "D:\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj": {
+    "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj",
+        "projectUniqueName": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj",
         "projectName": "Web_Projeto_integrado",
-        "projectPath": "D:\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj",
+        "projectPath": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Web_Projeto_integrado.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "D:\\Web_Projeto_integrado\\obj\\",
+        "outputPath": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
