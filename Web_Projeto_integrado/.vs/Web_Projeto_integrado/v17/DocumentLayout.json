@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\views\\emprestimos\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:views\\emprestimos\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:controllers\\emprestimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\views\\emprestimos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -78,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Excluir.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Emprestimos\\Excluir.cshtml",
               "RelativeDocumentMoniker": "Views\\Emprestimos\\Excluir.cshtml",
               "ToolTip": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Emprestimos\\Excluir.cshtml",
               "RelativeToolTip": "Views\\Emprestimos\\Excluir.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-26T22:23:13.389Z",
               "EditorCaption": ""
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmprestimosController.cs",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Controllers\\EmprestimosController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmprestimosController.cs",
@@ -160,8 +160,7 @@
               "RelativeToolTip": "Views\\Emprestimos\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T21:24:27.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T21:24:27.785Z"
             },
             {
               "$type": "Document",
