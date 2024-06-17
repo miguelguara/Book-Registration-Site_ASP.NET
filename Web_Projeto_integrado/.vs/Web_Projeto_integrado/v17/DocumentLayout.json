@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\views\\emprestimos\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:views\\emprestimos\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\views\\emprestimos\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:views\\emprestimos\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|d:\\projeto integrado web\\book-registration-site_asp.net\\web_projeto_integrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{642A994E-EDAF-4774-A8B9-DFCE84FDEBB6}|Web_Projeto_integrado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Excluir.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Emprestimos\\Excluir.cshtml",
               "RelativeDocumentMoniker": "Views\\Emprestimos\\Excluir.cshtml",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Editar.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Emprestimos\\Editar.cshtml",
               "RelativeDocumentMoniker": "Views\\Emprestimos\\Editar.cshtml",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EmprestimosModel.cs",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Models\\EmprestimosModel.cs",
               "RelativeDocumentMoniker": "Models\\EmprestimosModel.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Emprestimos\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "Views\\Emprestimos\\Cadastrar.cshtml",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmprestimosController.cs",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Controllers\\EmprestimosController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmprestimosController.cs",
@@ -147,12 +147,11 @@
               "RelativeToolTip": "Controllers\\EmprestimosController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAFAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T21:35:43.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T21:35:43.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Views\\Emprestimos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Emprestimos\\Index.cshtml",
@@ -164,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projeto Integrado Web\\Book-Registration-Site_ASP.NET\\Web_Projeto_integrado\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -172,7 +171,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T21:20:19.481Z"
+              "WhenOpened": "2024-04-20T21:20:19.481Z",
+              "EditorCaption": ""
             }
           ]
         }
